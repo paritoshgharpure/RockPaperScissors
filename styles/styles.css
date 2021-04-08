@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+img {
+    width: 120px;
+    height: 120px;    
+}
+
+.choice_buttons {
+  width: 140px;
+  height: 140px;
+  border: solid 4px yellow;
+  margin: 10px;
+}
